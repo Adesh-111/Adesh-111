@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adesh002" target="blank"><img src="https://img.shields.io/twitter/follow/adesh002?logo=twitter&style=for-the-badge" alt="adesh002" /></a> </p>
 
-- 🌱 I’m currently learning **Databases**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **Html, CSS, JavaScript, Node JS**
 
