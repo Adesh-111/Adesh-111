@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adesh D</h1>
 
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppin&size=30&pause=1000&color=2C98C7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Student;Web+developer+" alt="Typing SVG" /></a></div>
+
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://github.com/Adesh-111)
 
-<h3 align="center">Aspiring Full Stack Developer</h3>
+
+
 <p align="center">
   I'm a web developer pursuing a BE in Computer Science at Vel Tech High Tech, Chennai. Passionate about REST APIs, GitHub, HTML5, CSS, JavaScript, Node.js, Express.js, and responsive design. Constantly learning and eager to contribute to innovative projects.</p>
 
@@ -59,5 +62,6 @@
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adesh-111&theme=dark" /></p>
 </div>
+<img src=![Uploading github-user-contribution.svg…]()
 
 ![Adesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adesh-111&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
