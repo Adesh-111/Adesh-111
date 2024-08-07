@@ -64,7 +64,7 @@
 </div>
 
 <div align="center">
-<img src="github-user-contribution (1).svg" />
+<img src="github-user-contribution.svg" />
 </div>
 
 </br>
