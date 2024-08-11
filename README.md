@@ -32,13 +32,13 @@
 </div>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/adesh002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adesh002" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adesh07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adesh07" height="30" width="40" /></a>
-<a href="https://fb.com/adeshabin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adeshabin" height="30" width="40" /></a>
-<a href="https://instagram.com/adesh_abin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adesh_abin" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/adeshabin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adeshabin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/adeshabinesh25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adesh d" height="30" width="40" /></a>
+<div align="center">
+  <a href="mailto:adeshabinesh25.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/adesh-d/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/adesh_abin/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/_adesh007_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="https://www.facebook.com/adeshabin/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+</div>
 </p>
 </br>
 
