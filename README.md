@@ -65,7 +65,11 @@
 </div>
 
 <div align="center">
-<img src="github-user-contribution.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution-light.svg" />
+  <img alt="github-snake" src="github-user-contribution-light.svg" />
+</picture>
 </div>
 
 </br>
