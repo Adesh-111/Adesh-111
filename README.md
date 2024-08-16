@@ -25,10 +25,10 @@
 
 <div align="center">
   <h2>Languages, Frameworks & Tools</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,bash,git,github,nodejs,npm,express,postman,mysql,postgresql,python,java,c,vscode,windows" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,javascript,jquery,bash,git,github,nodejs,npm,express,postman,mysql,postgresql,python,java,c,vscode,windows" alt="skills logos" />
   <br /> 
   <h2>Actively Learning</h3>
-  <img src="https://skillicons.dev/icons?i=react,materialui" alt="skills actively learning logos">
+  <img src="https://skillicons.dev/icons?i=materialui" alt="skills actively learning logos">
 </div>
 
 <h3 align="center">Connect with me:</h3>
@@ -36,8 +36,9 @@
   <a href="mailto:adeshabinesh25@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/adesh-d/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/adesh_abin/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://twitter.com/Adesh002"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="https://x.com/Adesh002"><img alt="X" src="https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.facebook.com/adeshabin/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/adeshabinesh25"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%231877F2.svg?style=for-the-badge&logo=HackerRank&logoColor=white&labelColor=2ec866&color=2ec866" /></a>
 </div>
 </p>
 </br>
