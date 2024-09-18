@@ -6,7 +6,6 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://github.com/Adesh-111)
 
 
-
 <p align="center">
   I'm a web developer pursuing a BE in Computer Science at Vel Tech High Tech, Chennai. Passionate about REST APIs, GitHub, HTML5, CSS, JavaScript, Node.js, Express.js, and responsive design. Constantly learning and eager to contribute to innovative projects.</p>
 
