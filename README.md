@@ -3,7 +3,6 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppin&size=30&pause=1000&color=2C98C7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Student;Web+developer+" alt="Typing SVG" /></a></div>
 
 
-
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://github.com/Adesh-111)
 
 
