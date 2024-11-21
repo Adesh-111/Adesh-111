@@ -25,10 +25,10 @@
 
 <div align="center">
   <h2>Languages, Frameworks & Tools</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,javascript,jquery,bash,git,github,nodejs,npm,express,postman,mysql,postgresql,python,java,c,vercel,vscode,windows" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,javascript,jquery,bash,git,github,nodejs,npm,express,postman,mysql,postgresql,python,java,c,vercel,materialui,vscode,windows" alt="skills logos" />
   <br /> 
   <h2>Actively Learning</h3>
-  <img src="https://skillicons.dev/icons?i=materialui" alt="skills actively learning logos">
+  <img src="https://skillicons.dev/icons?i=redux,sass" alt="skills actively learning logos">
 </div>
 
 <h3 align="center">Connect with me:</h3>
