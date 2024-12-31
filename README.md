@@ -1,3 +1,6 @@
+
+![LinkedIn Banner (6)](https://github.com/user-attachments/assets/06d539dd-b8cc-42f4-ae7a-d1012caa7338)
+
 <h1 align="center">Hi 👋, I'm Adesh D</h1>
 
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppin&size=30&pause=1000&color=2C98C7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Student;Web+developer+" alt="Typing SVG" /></a></div>
