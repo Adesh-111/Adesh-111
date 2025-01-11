@@ -43,8 +43,7 @@
   <a href="https://www.facebook.com/adeshabin/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/profile/adeshabinesh25"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%231877F2.svg?style=for-the-badge&logo=HackerRank&logoColor=white&labelColor=2ec866&color=2ec866" /></a>
 </div>
-</p>
-</br>
+
 
 
 <p align="center">
