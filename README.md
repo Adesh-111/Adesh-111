@@ -31,11 +31,18 @@
   <h2>Actively Learning</h2>
   <img src="https://skillicons.dev/icons?i=redux,sass,tailwindcss" alt="skills actively learning logos">
 </div>
-
+<br />
+<div>
+  <img src="https://leetcard.jacoblin.cool/adeshabin?ext=heatmap" />
+  <img src="https://gfgstatscard.vercel.app/adeshabin" alt="GFG stats" />
+</div>
+<br />
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="mailto:adeshabinesh25@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/adesh-d/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/adeshabin/"><img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-222222?style=for-the-badge&logo=LeetCode&logoColor=FFA116" /></a>
+  <a href="https://www.geeksforgeeks.org/user/adeshabin/"><img alt="GFG" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=FFFFFF" /></a>
   <a href="https://www.instagram.com/adesh_abin/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://x.com/Adesh002"><img alt="X" src="https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.facebook.com/adeshabin/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
