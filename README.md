@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=redux,sass,tailwindcss" alt="skills actively learning logos">
 </div>
 <br />
-<div>
+<div align="center">
   <img src="https://leetcard.jacoblin.cool/adeshabin?ext=heatmap" />
   <img src="https://gfgstatscard.vercel.app/adeshabin" alt="GFG stats" />
 </div>
