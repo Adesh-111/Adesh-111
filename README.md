@@ -21,7 +21,63 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adesh-111&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages" >
   <br>
    <!--START_SECTION:waka-->
-   <!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2038%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20min-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+🌆 Daytime                362 commits         ███████░░░░░░░░░░░░░░░░░░   28.62 % 
+🌃 Evening                668 commits         █████████████░░░░░░░░░░░░   52.81 % 
+🌙 Night                  82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Tuesday                  224 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Wednesday                219 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Thursday                 169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Friday                   163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Saturday                 130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Sunday                   189 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               21 repos            ████████████░░░░░░░░░░░░░   47.73 % 
+HTML                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Adesh-111/Adesh-111/main/assets/bar_graph.png)
+
+
+ Last Updated on 30/07/2026 08:15:41 UTC
+<!--END_SECTION:waka-->
   <br>
 </div>
 
